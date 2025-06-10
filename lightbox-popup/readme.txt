@@ -3,8 +3,8 @@ Contributors: wpdevart
 Donate link: https://wpdevart.com/wordpress-lightbox-plugin/
 Tags: lightbox, image lightbox, lightbox gallery, video lightbox, popup lightbox
 Requires at least: 3.4.0
-Tested up to: 6.7
-Stable tag: 2.1.6
+Tested up to: 6.8
+Stable tag: 2.1.7
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -540,6 +540,10 @@ No dear users, you need to pay only once for pro version.
 = 2.1.6 =
 
 * Fixed a bug.
+
+= 2.1.7 =
+
+* tested.
 
 == Other Notes ==
 

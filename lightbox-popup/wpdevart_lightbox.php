@@ -4,7 +4,7 @@
  * Plugin URI: https://wpdevart.com/wordpress-lightbox-plugin/
  * Author URI: https://wpdevart.com/
  * Description: WordPress Lightbox plugin is a highly customizable and responsive product for displaying images and videos(YouTube and Vimeo) in the popup. The Lightbox plugin is one of the most popular and useful plugins for WordPress websites.
- * Version: 2.1.6
+ * Version: 2.1.7
  * Author: wpdevart
  * License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
  */
