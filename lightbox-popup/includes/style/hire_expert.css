@@ -1,5 +1,5 @@
 /* Title style */
-.wpdev_hire_exp_h1{
+.wpdev_hire_exp_h1 {
     text-align: center;
     font-size: 50px;
     font-weight: 700;
@@ -7,14 +7,16 @@
     margin: 20px auto 25px;
     line-height: 1.2;
 }
-.hire_expert_main{
-	background-color:white;
-	width:calc(100% - 20px);
-	padding:20px;
-	text-align: center;
-	box-sizing: border-box;
-	padding-left: 60px;	
+
+.hire_expert_main {
+    background-color: white;
+    width: calc(100% - 20px);
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-left: 60px;
 }
+
 /* Main block style */
 .wpdevart_hire_main {
     color: #060606;
@@ -33,62 +35,73 @@
     -moz-transition: -moz-transform .3s;
     transition: all 0.2s;
     -webkit-transform: translateY(0);
-    -moz-transform: translateY0);
+    -moz-transform: translateY(0);
     transform: translateY(0);
     min-height: 380px;
-    background-image: linear-gradient(#1d2327,#2b2350);
+    background-image: linear-gradient(#1d2327, #2b2350);
     vertical-align: top;
-	cursor:pointer;
+    cursor: pointer;
 }
-.wpdev_hire_buklet:hover,.wpdev_hire_buklet:active,.wpdev_hire_buklet{
-	color:#ffffff;
-	text-decoration:none;
+
+.wpdev_hire_buklet:hover, .wpdev_hire_buklet:active, .wpdev_hire_buklet {
+    color: #ffffff;
+    text-decoration: none;
 }
-@media screen and (max-width: 1850px){
-	.wpdevart_hire_main {
-		margin-right: 25px;
-		width: calc((100% - 125px)/5);
-	}
+
+@media screen and (max-width: 1850px) {
+    .wpdevart_hire_main {
+        margin-right: 25px;
+        width: calc((100% - 125px)/5);
+    }
 }
-@media screen and (max-width: 1450px){
-	.wpdevart_hire_main {
-		margin-right: 25px;
-		width: calc((100% - 100px)/4);
-	}
+
+@media screen and (max-width: 1450px) {
+    .wpdevart_hire_main {
+        margin-right: 25px;
+        width: calc((100% - 100px)/4);
+    }
 }
-@media screen and (max-width: 1150px){
-	.wpdevart_hire_main {
-		margin-right: 30px;
-		width: calc((100% - 90px)/3);
-	}
+
+@media screen and (max-width: 1150px) {
+    .wpdevart_hire_main {
+        margin-right: 30px;
+        width: calc((100% - 90px)/3);
+    }
 }
-@media screen and (max-width: 900px){
-	.wpdevart_hire_main {
-		margin-right: 30px;
-		width: calc((100% - 60px)/2);
-	}
+
+@media screen and (max-width: 900px) {
+    .wpdevart_hire_main {
+        margin-right: 30px;
+        width: calc((100% - 60px)/2);
+    }
 }
-@media screen and (max-width: 500px){
-	.wpdevart_hire_main {
-		margin-right: 0px;
-		width: 100%;
-	}
-	.hire_expert_main{
-		width:100%;
-	}
+
+@media screen and (max-width: 500px) {
+    .wpdevart_hire_main {
+        margin-right: 0px;
+        width: 100%;
+    }
+
+    .hire_expert_main {
+        width: 100%;
+    }
 }
+
 .wpdevart_hire_main:hover {
     box-shadow: 0 6px 20px 1px #151d22;
 }
+
 .wpdevart_hire_image {
     max-width: 128px;
     margin: 0 auto;
 }
+
 .wpdevart_hire_image img {
     max-width: 100%;
 }
-.wpdevart_hire_information {
-}
+
+.wpdevart_hire_information {}
+
 .wpdevart_hire_title {
     color: #ffffff;
     font-size: 18px;
@@ -96,12 +109,14 @@
     font-weight: bold;
     margin-top: 15px;
 }
+
 .wpdevart_hire_description {
     font-size: 14px;
     min-height: 63px;
 }
+
 /* Button style */
-.wpdev_hire_button{
+.wpdev_hire_button {
     background-color: #2b2350;
     border: none;
     color: white;
@@ -111,14 +126,17 @@
     display: inline-block;
     margin: 4px 2px;
     cursor: pointer;
+    transition: all 0.2s;
 }
-.wpdev_hire_button:visited,.wpdev_hire_button:hover,.wpdev_hire_button:active,.wpdev_hire_button{
-	color: #ffffff;
+
+.wpdev_hire_button:visited, .wpdev_hire_button:hover, .wpdev_hire_button:active, .wpdev_hire_button {
+    color: #ffffff;
     text-decoration: none;
     font-size: 18px;
     font-weight: bold;
-	border-radius:3px;
+    border-radius: 3px;
 }
-.wpdev_hire_button:hover{
-	box-shadow: 0px 4px 11px 0px #151d22;
+
+.wpdev_hire_button:hover {
+    box-shadow: 0px 4px 11px 0px #151d22;
 }
